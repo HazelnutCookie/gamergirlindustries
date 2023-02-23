@@ -6,12 +6,12 @@ id: 11
 label: SAND
 longName: sand
 name: Sand
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 222
+penaltyLowerBound: 33
 price: 4112
 sprite:
   filename: cargoes/sand.png
   left: 0
   top: 0
-unitName: Items
+unitName: Tonnes
 weight: 16
