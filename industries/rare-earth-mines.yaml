@@ -1,0 +1,16 @@
+available: false
+callbacks: ''
+cargoAcceptance: []
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 8
+layout:
+- - - -1
+name: Rare Earth Mines
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 2
+prospectChance: 75
+tiles: []
+type: primary
