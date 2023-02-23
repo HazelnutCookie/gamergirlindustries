@@ -1,16 +1,16 @@
 abbreviation: LG
 available: false
 classes: 32
-colour: 1
+colour: 61
 id: 0
 label: WOOD
-longName: 'new cargo #0'
-name: 'New Cargo #0'
-penaltyLength: 0
-penaltyLowerBound: 255
+longName: logs
+name: Logs
+penaltyLength: 255
+penaltyLowerBound: 0
 price: 4112
 sprite:
-  filename: cargoes/new-cargo-0.png
+  filename: cargoes/logs.png
   left: 0
   top: 0
 unitName: Tonnes
