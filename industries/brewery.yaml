@@ -1,0 +1,19 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- FRUT
+- GLAS
+cargoProduction:
+- GOOD
+colour: 1
+fundCostMultiplier: 78
+id: 30
+layout:
+- - - -1
+name: Brewery
+placement: near-town
+probabilityInGame: 7
+probabilityMapGen: 5
+prospectChance: 0
+tiles: []
+type: secondary
