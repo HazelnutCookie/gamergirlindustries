@@ -1,16 +1,18 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- LIME
+cargoProduction:
+- WATR
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 80
 id: 9
 layout:
 - - - -1
 name: Water Treatment Plant
-placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
-prospectChance: 75
+placement: near-town
+probabilityInGame: 4
+probabilityMapGen: 5
+prospectChance: 100
 tiles: []
 type: primary
