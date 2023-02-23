@@ -6,12 +6,12 @@ id: 29
 label: GOOD
 longName: goods
 name: Goods
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 35
+penaltyLowerBound: 5
 price: 4112
 sprite:
   filename: cargoes/goods.png
   left: 0
   top: 0
 unitName: Crates
-weight: 16
+weight: 8
