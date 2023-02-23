@@ -1,0 +1,17 @@
+abbreviation: FC
+available: false
+classes: 16
+colour: 56
+id: 4
+label: FICR
+longName: fiber crops
+name: Fiber Crops
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/fiber-crops.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
