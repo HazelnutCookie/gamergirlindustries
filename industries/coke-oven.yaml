@@ -1,9 +1,11 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- COAL
+cargoProduction:
+- COKE
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 60
 id: 15
 layout:
 - - - -1
