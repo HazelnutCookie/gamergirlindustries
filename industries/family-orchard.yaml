@@ -1,9 +1,9 @@
 available: false
 callbacks: ''
 cargoAcceptance:
+- COMP
 - MAIL
 - PASS
-- COMP
 cargoProduction:
 - FRUT
 - MAIL
