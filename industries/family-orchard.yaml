@@ -149,9 +149,9 @@ cargoAcceptance:
 - MAIL
 - PASS
 cargoProduction:
+- PASS
 - FRUT
 - MAIL
-- PASS
 colour: 1
 fundCostMultiplier: 20
 id: 3
