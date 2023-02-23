@@ -8,10 +8,10 @@ longName: newspaper
 name: Newspaper
 penaltyLength: 0
 penaltyLowerBound: 3
-price: 7402
+price: 7690
 sprite:
   filename: cargoes/newspaper.png
   left: 0
   top: 0
 unitName: Bags
-weight: 16
+weight: 4
