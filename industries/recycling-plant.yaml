@@ -1,0 +1,19 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- WSTE
+cargoProduction:
+- COMP
+- STEL
+colour: 1
+fundCostMultiplier: 50
+id: 18
+layout:
+- - - -1
+name: Recycling Plant
+placement: near-town
+probabilityInGame: 6
+probabilityMapGen: 5
+prospectChance: 0
+tiles: []
+type: secondary
