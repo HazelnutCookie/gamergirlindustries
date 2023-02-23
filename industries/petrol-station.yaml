@@ -42,8 +42,8 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- PETR
 - FOOD
+- PETR
 cargoProduction: []
 colour: 1
 fundCostMultiplier: 15
