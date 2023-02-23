@@ -1,0 +1,17 @@
+abbreviation: EC
+available: false
+classes: 32
+colour: 1
+id: 36
+label: ELEC
+longName: 'new cargo #36'
+name: 'New Cargo #36'
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/new-cargo-36.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16
