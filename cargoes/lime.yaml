@@ -1,17 +1,17 @@
-abbreviation: NE
+abbreviation: LI
 available: false
 classes: 32
 colour: 1
 id: 10
-label: NEWC
-longName: 'new cargo #10'
-name: 'New Cargo #10'
+label: LIME
+longName: lime
+name: Lime
 penaltyLength: 255
 penaltyLowerBound: 0
 price: 4112
 sprite:
-  filename: cargoes/new-cargo-10.png
+  filename: cargoes/lime.png
   left: 0
   top: 0
-unitName: Items
+unitName: Tonnes
 weight: 16
