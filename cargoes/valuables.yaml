@@ -8,7 +8,7 @@ longName: valuables
 name: Valuables
 penaltyLength: 237
 penaltyLowerBound: 18
-price: 4112
+price: 6168
 sprite:
   filename: cargoes/valuables.png
   left: 0
