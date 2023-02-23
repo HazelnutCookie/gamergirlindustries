@@ -1,0 +1,16 @@
+available: false
+callbacks: ''
+cargoAcceptance: []
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 26
+layout:
+- - - -1
+name: Smelter
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 5
+prospectChance: 0
+tiles: []
+type: secondary
