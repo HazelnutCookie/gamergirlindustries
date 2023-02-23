@@ -7,7 +7,7 @@ fundCostMultiplier: 100
 id: 0
 layout:
 - - - -1
-name: 'New industry #0'
+name: Forest
 placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
