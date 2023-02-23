@@ -6,9 +6,9 @@ id: 33
 label: Slag
 longName: slag
 name: Slag
-penaltyLength: 255
-penaltyLowerBound: 0
-price: 4112
+penaltyLength: 191
+penaltyLowerBound: 64
+price: 3495
 sprite:
   filename: cargoes/slag.png
   left: 0
