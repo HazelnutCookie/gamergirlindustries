@@ -8,7 +8,7 @@ longName: goods
 name: Goods
 penaltyLength: 35
 penaltyLowerBound: 5
-price: 4112
+price: 7073
 sprite:
   filename: cargoes/goods.png
   left: 0
