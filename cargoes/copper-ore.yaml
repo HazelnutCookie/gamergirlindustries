@@ -1,17 +1,17 @@
-abbreviation: NE
+abbreviation: CR
 available: false
-classes: 32
-colour: 1
+classes: 16
+colour: 156
 id: 12
-label: NEWC
-longName: 'new cargo #12'
-name: 'New Cargo #12'
+label: CORE
+longName: copper ore
+name: Copper Ore
 penaltyLength: 255
 penaltyLowerBound: 0
 price: 4112
 sprite:
-  filename: cargoes/new-cargo-12.png
+  filename: cargoes/copper-ore.png
   left: 0
   top: 0
-unitName: Items
+unitName: Tonnes
 weight: 16
