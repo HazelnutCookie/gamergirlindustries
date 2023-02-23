@@ -1,7 +1,9 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- WOOD
+cargoProduction:
+- WDPR
 colour: 1
 fundCostMultiplier: 50
 id: 13
