@@ -6,8 +6,8 @@ id: 17
 label: WATR
 longName: water
 name: Water
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 191
+penaltyLowerBound: 64
 price: 4112
 sprite:
   filename: cargoes/water.png
