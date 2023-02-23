@@ -1,0 +1,17 @@
+abbreviation: PE
+available: false
+classes: 32
+colour: 14
+id: 7
+label: PERL
+longName: pearls
+name: Pearls
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/pearls.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
