@@ -1,0 +1,17 @@
+abbreviation: MT
+available: false
+classes: 16
+colour: 19
+id: 32
+label: STEL
+longName: steel
+name: Steel
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/steel.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
