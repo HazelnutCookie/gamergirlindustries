@@ -1,0 +1,17 @@
+abbreviation: VL
+available: false
+classes: 8
+colour: 191
+id: 25
+label: VALU
+longName: valuables
+name: Valuables
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/valuables.png
+  left: 0
+  top: 0
+unitName: Bags
+weight: 16
