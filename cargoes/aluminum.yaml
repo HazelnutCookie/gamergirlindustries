@@ -6,8 +6,8 @@ id: 23
 label: ALUM
 longName: aluminum
 name: Aluminum
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 223
+penaltyLowerBound: 32
 price: 4934
 sprite:
   filename: cargoes/aluminum.png
