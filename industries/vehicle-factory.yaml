@@ -1,0 +1,20 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- ELEC
+- GLAS
+- STEL
+cargoProduction:
+- VEHI
+colour: 1
+fundCostMultiplier: 120
+id: 36
+layout:
+- - - -1
+name: Vehicle Factory
+placement: anywhere
+probabilityInGame: 2
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary
