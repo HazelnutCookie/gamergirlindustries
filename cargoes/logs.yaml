@@ -8,7 +8,7 @@ longName: logs
 name: Logs
 penaltyLength: 255
 penaltyLowerBound: 0
-price: 4112
+price: 4277
 sprite:
   filename: cargoes/logs.png
   left: 0
