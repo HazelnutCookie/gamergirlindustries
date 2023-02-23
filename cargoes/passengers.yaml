@@ -6,7 +6,7 @@ id: 39
 label: PASS
 longName: passengers
 name: Passengers
-penaltyLength: 255
+penaltyLength: 21
 penaltyLowerBound: 0
 price: 5634
 sprite:
