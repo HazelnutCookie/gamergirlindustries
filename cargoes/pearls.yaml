@@ -8,7 +8,7 @@ longName: pearls
 name: Pearls
 penaltyLength: 223
 penaltyLowerBound: 32
-price: 4523
+price: 5222
 sprite:
   filename: cargoes/pearls.png
   left: 0
