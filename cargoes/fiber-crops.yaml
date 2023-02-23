@@ -6,8 +6,8 @@ id: 4
 label: FICR
 longName: fiber crops
 name: Fiber Crops
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 247
+penaltyLowerBound: 8
 price: 4688
 sprite:
   filename: cargoes/fiber-crops.png
