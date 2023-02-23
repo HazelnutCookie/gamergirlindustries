@@ -1,7 +1,13 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- MAIL
+- PASS
+- COMP
+cargoProduction:
+- FRUT
+- MAIL
+- PASS
 colour: 1
 fundCostMultiplier: 20
 id: 3
