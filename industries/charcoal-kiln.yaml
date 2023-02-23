@@ -103,8 +103,8 @@ callbacks: |
 cargoAcceptance:
 - WOOD
 cargoProduction:
-- CHEM
 - COAL
+- CHEM
 colour: 1
 fundCostMultiplier: 31
 id: 12
