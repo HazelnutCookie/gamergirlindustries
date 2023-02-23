@@ -8,7 +8,7 @@ longName: fish
 name: Fish
 penaltyLength: 255
 penaltyLowerBound: 0
-price: 4112
+price: 5510
 sprite:
   filename: cargoes/fish.png
   left: 0
