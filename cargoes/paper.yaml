@@ -6,8 +6,8 @@ id: 28
 label: PAPR
 longName: paper
 name: Paper
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 223
+penaltyLowerBound: 32
 price: 4112
 sprite:
   filename: cargoes/paper.png
