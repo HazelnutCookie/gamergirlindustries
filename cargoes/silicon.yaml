@@ -1,0 +1,17 @@
+abbreviation: SI
+available: false
+classes: 16
+colour: 2
+id: 16
+label: SILC
+longName: silicon
+name: Silicon
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/silicon.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
