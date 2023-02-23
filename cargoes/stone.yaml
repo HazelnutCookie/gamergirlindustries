@@ -6,8 +6,8 @@ id: 9
 label: GRVL
 longName: stone
 name: Stone
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 191
+penaltyLowerBound: 64
 price: 4112
 sprite:
   filename: cargoes/stone.png
