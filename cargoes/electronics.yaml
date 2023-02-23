@@ -8,10 +8,10 @@ longName: electronics
 name: Electronics
 penaltyLength: 255
 penaltyLowerBound: 0
-price: 4112
+price: 6168
 sprite:
   filename: cargoes/electronics.png
   left: 0
   top: 0
-unitName: Crates
+unitName: Tonnes
 weight: 16
