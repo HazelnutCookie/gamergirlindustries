@@ -8,7 +8,7 @@ longName: compost
 name: Compost
 penaltyLength: 255
 penaltyLowerBound: 0
-price: 4112
+price: 5099
 sprite:
   filename: cargoes/compost.png
   left: 0
