@@ -13,5 +13,5 @@ sprite:
   filename: cargoes/wool.png
   left: 0
   top: 0
-unitName: Crates
+unitName: Tonnes
 weight: 16
