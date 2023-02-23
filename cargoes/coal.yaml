@@ -6,8 +6,8 @@ id: 8
 label: COAL
 longName: coal
 name: Coal
-penaltyLength: 235
-penaltyLowerBound: 20
+penaltyLength: 255
+penaltyLowerBound: 0
 price: 3166
 sprite:
   filename: cargoes/coal.png
