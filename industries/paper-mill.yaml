@@ -1,0 +1,19 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- WATR
+- WDPR
+cargoProduction:
+- PAPR
+colour: 1
+fundCostMultiplier: 50
+id: 22
+layout:
+- - - -1
+name: Paper Mill
+placement: anywhere
+probabilityInGame: 3
+probabilityMapGen: 5
+prospectChance: 0
+tiles: []
+type: secondary
