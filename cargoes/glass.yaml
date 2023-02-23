@@ -1,0 +1,17 @@
+abbreviation: GL
+available: false
+classes: 1056
+colour: 161
+id: 27
+label: GLAS
+longName: glass
+name: Glass
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/glass.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
