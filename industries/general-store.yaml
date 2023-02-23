@@ -1,0 +1,19 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- FERT
+- FOOD
+- GOOD
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 15
+id: 40
+layout:
+- - - -1
+name: General Store
+placement: in-town
+probabilityInGame: 7
+probabilityMapGen: 6
+prospectChance: 0
+tiles: []
+type: tertiary
