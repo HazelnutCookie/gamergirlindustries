@@ -5,14 +5,14 @@ cargoAcceptance:
 - GRAI
 cargoProduction: []
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 65
 id: 1
 layout:
 - - - -1
 name: Livestock Farm
 placement: anywhere
-probabilityInGame: 5
+probabilityInGame: 3
 probabilityMapGen: 3
-prospectChance: 75
+prospectChance: 100
 tiles: []
 type: primary
