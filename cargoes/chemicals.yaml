@@ -6,7 +6,7 @@ id: 20
 label: CHEM
 longName: chemicals
 name: Chemicals
-penaltyLength: 19
+penaltyLength: 31
 penaltyLowerBound: 0
 price: 5962
 sprite:
@@ -14,4 +14,4 @@ sprite:
   left: 0
   top: 0
 unitName: Litres
-weight: 16
+weight: 18
