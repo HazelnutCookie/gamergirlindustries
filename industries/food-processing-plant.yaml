@@ -19,10 +19,9 @@ callbacks: |
       total_produced_cargo_available integer
   }
 
-  accept_cargo_types ctt:VPTS [] 2 =
-  accept_cargo_types ctt:VBOD [] 2 =
-  accept_cargo_types ctt:VENG [] 2 =
-  accept_cargo_types ctt:TYRE [] 2 =
+  accept_cargo_types ctt:LVST [] 3 =
+  accept_cargo_types ctt:GRAI [] 4 =
+  accept_cargo_types ctt:CHEM [] 3 =
   prod_cargo_types ctt:FOOD [] 6 =
 
 
