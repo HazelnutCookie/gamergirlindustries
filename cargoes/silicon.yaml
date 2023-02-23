@@ -6,8 +6,8 @@ id: 16
 label: SILC
 longName: silicon
 name: Silicon
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 223
+penaltyLowerBound: 32
 price: 4112
 sprite:
   filename: cargoes/silicon.png
