@@ -1,7 +1,9 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- FERT
+cargoProduction:
+- WOOD
 colour: 1
 fundCostMultiplier: 100
 id: 0
@@ -9,8 +11,8 @@ layout:
 - - - -1
 name: Forest
 placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
+probabilityInGame: 2
+probabilityMapGen: 4
 prospectChance: 75
 tiles: []
 type: primary
