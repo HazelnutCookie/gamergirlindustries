@@ -14,7 +14,7 @@ layout:
 name: Reef
 placement: on-water
 probabilityInGame: 0
-probabilityMapGen: 3
+probabilityMapGen: 5
 prospectChance: 0
 tiles: []
 type: primary
