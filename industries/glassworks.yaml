@@ -1,0 +1,19 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- COKE
+- SAND
+cargoProduction:
+- GLAS
+colour: 1
+fundCostMultiplier: 66
+id: 21
+layout:
+- - - -1
+name: Glassworks
+placement: anywhere
+probabilityInGame: 4
+probabilityMapGen: 4
+prospectChance: 0
+tiles: []
+type: secondary
