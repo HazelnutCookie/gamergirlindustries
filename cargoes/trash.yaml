@@ -1,0 +1,17 @@
+abbreviation: WS
+available: false
+classes: 544
+colour: 84
+id: 18
+label: WSTE
+longName: trash
+name: Trash
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/trash.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
