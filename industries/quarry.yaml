@@ -9,8 +9,8 @@ layout:
 - - - -1
 name: Quarry
 placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
+probabilityInGame: 6
+probabilityMapGen: 5
 prospectChance: 75
 tiles: []
 type: primary
