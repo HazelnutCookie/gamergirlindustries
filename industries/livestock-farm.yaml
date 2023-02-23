@@ -42,9 +42,10 @@ callbacks: |
 
   supply_requirement 8 =
 
-  accept_cargo_types ctt:ENSP [] 1 =
-  prod_cargo_types ctt:SASH [] 16 =
-  prod_cargo_types ctt:SALT [] 18 =
+  accept_cargo_types ctt:FISH [] 1 =
+  accept_cargo_types ctt:GRAI [] 1 =
+  prod_cargo_types ctt:LVST [] 16 =
+  prod_cargo_types ctt:WOOL [] 18 =
 
 
   /*
