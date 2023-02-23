@@ -8,10 +8,10 @@ longName: fertilizer
 name: Fertilizer
 penaltyLength: 255
 penaltyLowerBound: 0
-price: 4112
+price: 6867
 sprite:
   filename: cargoes/fertilizer.png
   left: 0
   top: 0
-unitName: Bags
+unitName: Tonnes
 weight: 16
