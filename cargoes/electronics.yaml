@@ -1,17 +1,17 @@
 abbreviation: EC
 available: false
-classes: 32
-colour: 1
+classes: 544
+colour: 207
 id: 36
 label: ELEC
-longName: 'new cargo #36'
-name: 'New Cargo #36'
+longName: electronics
+name: Electronics
 penaltyLength: 255
 penaltyLowerBound: 0
 price: 4112
 sprite:
-  filename: cargoes/new-cargo-36.png
+  filename: cargoes/electronics.png
   left: 0
   top: 0
-unitName: Items
+unitName: Crates
 weight: 16
