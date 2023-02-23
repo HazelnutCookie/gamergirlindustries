@@ -43,9 +43,7 @@ callbacks: |
   supply_requirement 8 =
 
   accept_cargo_types ctt:ENSP [] 1 =
-  prod_cargo_types ctt:SASH [] 16 =
-  prod_cargo_types ctt:SALT [] 18 =
-
+  prod_cargo_types ctt:COAL [] 20 =
 
   /*
    The following is a replication of what FIRS is doing for a primary industry.
