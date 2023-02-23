@@ -1,0 +1,17 @@
+abbreviation: VC
+available: false
+classes: 1056
+colour: 1
+id: 40
+label: VEHI
+longName: vehicles
+name: Vehicles
+penaltyLength: 223
+penaltyLowerBound: 32
+price: 9047
+sprite:
+  filename: cargoes/vehicles.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16
