@@ -1,6 +1,6 @@
 abbreviation: ML
 available: false
-classes: 32
+classes: 544
 colour: 15
 id: 38
 label: MAIL
@@ -14,4 +14,4 @@ sprite:
   left: 0
   top: 0
 unitName: Bags
-weight: 16
+weight: 4
