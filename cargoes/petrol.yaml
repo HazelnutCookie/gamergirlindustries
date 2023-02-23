@@ -1,0 +1,17 @@
+abbreviation: PL
+available: false
+classes: 64
+colour: 41
+id: 21
+label: PETR
+longName: petrol
+name: Petrol
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/petrol.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 16
