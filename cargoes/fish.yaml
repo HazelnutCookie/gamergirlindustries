@@ -6,7 +6,7 @@ id: 6
 label: FISH
 longName: fish
 name: Fish
-penaltyLength: 255
+penaltyLength: 37
 penaltyLowerBound: 0
 price: 5510
 sprite:
