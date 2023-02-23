@@ -42,9 +42,10 @@ callbacks: |
 
   supply_requirement 8 =
 
-  accept_cargo_types ctt:ENSP [] 1 =
-  prod_cargo_types ctt:SASH [] 16 =
-  prod_cargo_types ctt:SALT [] 18 =
+  accept_cargo_types ctt:VALU [] 1 =
+  accept_cargo_types ctt:FOOD [] 1 =
+  accept_cargo_types ctt:PASS [] 1 =
+  prod_cargo_types ctt:PASS [] 6 =
 
 
   /*
@@ -145,9 +146,9 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
+- PASS
 - FOOD
 - GOOD
-- PASS
 cargoProduction:
 - PASS
 colour: 1
