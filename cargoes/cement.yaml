@@ -1,0 +1,17 @@
+abbreviation: CE
+available: false
+classes: 528
+colour: 10
+id: 35
+label: CMNT
+longName: cement
+name: Cement
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/cement.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16
