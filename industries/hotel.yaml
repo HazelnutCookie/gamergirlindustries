@@ -1,0 +1,20 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- FOOD
+- GOOD
+- PASS
+cargoProduction:
+- PASS
+colour: 1
+fundCostMultiplier: 50
+id: 35
+layout:
+- - - -1
+name: Hotel
+placement: anywhere
+probabilityInGame: 3
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: tertiary
