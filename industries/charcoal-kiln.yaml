@@ -1,9 +1,12 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- WOOD
+cargoProduction:
+- CHEM
+- COAL
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 31
 id: 12
 layout:
 - - - -1
