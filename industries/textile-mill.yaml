@@ -1,7 +1,10 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- FICR
+- WOOL
+cargoProduction:
+- GOOD
 colour: 1
 fundCostMultiplier: 60
 id: 23
@@ -10,7 +13,7 @@ layout:
 name: Textile Mill
 placement: near-town
 probabilityInGame: 4
-probabilityMapGen: 5
+probabilityMapGen: 4
 prospectChance: 0
 tiles: []
 type: secondary
