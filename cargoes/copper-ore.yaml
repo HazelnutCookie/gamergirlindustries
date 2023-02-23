@@ -6,8 +6,8 @@ id: 12
 label: CORE
 longName: copper ore
 name: Copper Ore
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 223
+penaltyLowerBound: 32
 price: 3495
 sprite:
   filename: cargoes/copper-ore.png
