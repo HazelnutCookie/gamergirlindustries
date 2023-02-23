@@ -1,0 +1,17 @@
+abbreviation: CW
+available: false
+classes: 32
+colour: 194
+id: 31
+label: COPR
+longName: copper wire
+name: Copper Wire
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/copper-wire.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
