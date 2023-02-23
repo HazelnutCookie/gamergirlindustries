@@ -1,0 +1,22 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- FERT
+- FOOD
+- GOOD
+- NEWS
+- VALU
+- VEHI
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 70
+id: 39
+layout:
+- - - -1
+name: Retailer
+placement: in-large-town
+probabilityInGame: 7
+probabilityMapGen: 2
+prospectChance: 0
+tiles: []
+type: tertiary
