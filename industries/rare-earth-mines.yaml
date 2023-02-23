@@ -1,9 +1,12 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- VEHI
+cargoProduction:
+- DIAM
+- SILC
 colour: 1
-fundCostMultiplier: 70
+fundCostMultiplier: 73
 id: 8
 layout:
 - - - -1
