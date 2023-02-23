@@ -1,0 +1,17 @@
+abbreviation: SA
+available: false
+classes: 2064
+colour: 52
+id: 11
+label: SAND
+longName: sand
+name: Sand
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/sand.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16
