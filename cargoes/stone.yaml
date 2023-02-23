@@ -8,7 +8,7 @@ longName: stone
 name: Stone
 penaltyLength: 191
 penaltyLowerBound: 64
-price: 4112
+price: 3495
 sprite:
   filename: cargoes/stone.png
   left: 0
