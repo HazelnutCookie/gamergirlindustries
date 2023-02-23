@@ -6,12 +6,12 @@ id: 1
 label: WOOL
 longName: wool
 name: Wool
-penaltyLength: 255
-penaltyLowerBound: 0
-price: 4112
+penaltyLength: 223
+penaltyLowerBound: 32
+price: 4564
 sprite:
   filename: cargoes/wool.png
   left: 0
   top: 0
-unitName: Tonnes
-weight: 16
+unitName: Crates
+weight: 4
