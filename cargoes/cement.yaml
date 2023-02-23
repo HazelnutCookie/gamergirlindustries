@@ -6,8 +6,8 @@ id: 35
 label: CMNT
 longName: cement
 name: Cement
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 49
+penaltyLowerBound: 11
 price: 5346
 sprite:
   filename: cargoes/cement.png
