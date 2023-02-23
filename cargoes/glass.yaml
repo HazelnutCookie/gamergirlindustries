@@ -8,10 +8,10 @@ longName: glass
 name: Glass
 penaltyLength: 255
 penaltyLowerBound: 0
-price: 4112
+price: 5428
 sprite:
   filename: cargoes/glass.png
   left: 0
   top: 0
-unitName: Tonnes
-weight: 16
+unitName: Crates
+weight: 10
