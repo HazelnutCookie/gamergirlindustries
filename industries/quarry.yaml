@@ -44,7 +44,8 @@ callbacks: |
 
   accept_cargo_types ctt:VEHI [] 1 =
   prod_cargo_types ctt:GRVL [] 16 =
-  prod_cargo_types ctt:SALT [] 18 =
+  prod_cargo_types ctt:SAND [] 14 =
+  prod_cargo_types ctt:LIME [] 14 =
 
 
   /*
