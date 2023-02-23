@@ -8,7 +8,7 @@ longName: wood products
 name: Wood Products
 penaltyLength: 223
 penaltyLowerBound: 32
-price: 41
+price: 5140
 sprite:
   filename: cargoes/wood-products.png
   left: 0
