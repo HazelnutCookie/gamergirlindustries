@@ -6,9 +6,9 @@ id: 19
 label: OIL_
 longName: oil
 name: Oil
-penaltyLength: 255
-penaltyLowerBound: 0
-price: 4318
+penaltyLength: 93
+penaltyLowerBound: 27
+price: 4606
 sprite:
   filename: cargoes/oil.png
   left: 0
