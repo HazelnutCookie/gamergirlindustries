@@ -9,7 +9,7 @@ layout:
 - - - -1
 name: Coke Oven
 placement: anywhere
-probabilityInGame: 5
+probabilityInGame: 4
 probabilityMapGen: 5
 prospectChance: 0
 tiles: []
