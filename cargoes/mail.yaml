@@ -6,8 +6,8 @@ id: 38
 label: MAIL
 longName: mail
 name: Mail
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 18
+penaltyLowerBound: 5
 price: 6867
 sprite:
   filename: cargoes/mail.png
