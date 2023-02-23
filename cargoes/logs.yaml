@@ -6,8 +6,8 @@ id: 0
 label: WOOD
 longName: logs
 name: Logs
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 223
+penaltyLowerBound: 32
 price: 4277
 sprite:
   filename: cargoes/logs.png
