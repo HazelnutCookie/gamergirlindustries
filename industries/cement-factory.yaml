@@ -6,7 +6,7 @@ cargoAcceptance:
 cargoProduction:
 - CMNT
 colour: 1
-fundCostMultiplier: 50
+fundCostMultiplier: 65
 id: 27
 layout:
 - - - -1
