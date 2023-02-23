@@ -6,8 +6,8 @@ id: 24
 label: COKE
 longName: coke
 name: Coke
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 223
+penaltyLowerBound: 32
 price: 4441
 sprite:
   filename: cargoes/coke.png
