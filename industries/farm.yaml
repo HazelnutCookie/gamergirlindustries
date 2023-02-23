@@ -9,8 +9,8 @@ layout:
 - - - -1
 name: Farm
 placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
-prospectChance: 75
+probabilityInGame: 3
+probabilityMapGen: 4
+prospectChance: 100
 tiles: []
 type: primary
