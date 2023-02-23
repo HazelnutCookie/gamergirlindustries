@@ -1,16 +1,20 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- AORE
+- COAL
+- LIME
+cargoProduction:
+- ALUM
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 80
 id: 17
 layout:
 - - - -1
 name: Aluminum Plant
 placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
+probabilityInGame: 3
+probabilityMapGen: 5
 prospectChance: 0
 tiles: []
 type: secondary
