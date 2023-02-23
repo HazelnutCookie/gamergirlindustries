@@ -1,0 +1,19 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- GRVL
+- WATR
+cargoProduction:
+- CMNT
+colour: 1
+fundCostMultiplier: 50
+id: 27
+layout:
+- - - -1
+name: Cement Factory
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 4
+prospectChance: 0
+tiles: []
+type: secondary
