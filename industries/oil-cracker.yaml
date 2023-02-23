@@ -1,0 +1,19 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- OIL_
+cargoProduction:
+- CHEM
+- PETR
+colour: 1
+fundCostMultiplier: 74
+id: 19
+layout:
+- - - -1
+name: Oil Cracker
+placement: anywhere
+probabilityInGame: 4
+probabilityMapGen: 4
+prospectChance: 0
+tiles: []
+type: secondary
