@@ -3,8 +3,8 @@ callbacks: ''
 cargoAcceptance:
 - PASS
 cargoProduction:
-- PASS
 - OIL_
+- PASS
 colour: 1
 fundCostMultiplier: 100
 id: 11
