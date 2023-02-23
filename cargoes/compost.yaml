@@ -6,8 +6,8 @@ id: 22
 label: COMP
 longName: compost
 name: Compost
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 237
+penaltyLowerBound: 18
 price: 5099
 sprite:
   filename: cargoes/compost.png
