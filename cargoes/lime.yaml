@@ -6,8 +6,8 @@ id: 10
 label: LIME
 longName: lime
 name: Lime
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 223
+penaltyLowerBound: 32
 price: 3783
 sprite:
   filename: cargoes/lime.png
