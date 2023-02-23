@@ -7,7 +7,6 @@ cargoAcceptance:
 cargoProduction:
 - COPR
 - STEL
-- Slag
 colour: 1
 fundCostMultiplier: 68
 id: 26
