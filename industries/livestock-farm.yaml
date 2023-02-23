@@ -3,9 +3,13 @@ callbacks: ''
 cargoAcceptance:
 - FISH
 - GRAI
+- MAIL
+- PASS
 cargoProduction:
 - LVST
 - WOOL
+- MAIL
+- PASS
 colour: 1
 fundCostMultiplier: 65
 id: 1
