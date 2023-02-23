@@ -1,0 +1,18 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- COAL
+- OIL_
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 121
+id: 16
+layout:
+- - - -1
+name: Power Plant
+placement: near-town
+probabilityInGame: 5
+probabilityMapGen: 5
+prospectChance: 0
+tiles: []
+type: tertiary
