@@ -2,7 +2,9 @@ available: false
 callbacks: ''
 cargoAcceptance:
 - FERT
-cargoProduction: []
+cargoProduction:
+- FICR
+- GRAI
 colour: 1
 fundCostMultiplier: 65
 id: 2
