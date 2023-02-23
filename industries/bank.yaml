@@ -1,0 +1,18 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- VALU
+cargoProduction:
+- VALU
+colour: 1
+fundCostMultiplier: 101
+id: 25
+layout:
+- - - -1
+name: Bank
+placement: in-large-town
+probabilityInGame: 5
+probabilityMapGen: 2
+prospectChance: 0
+tiles: []
+type: tertiary
