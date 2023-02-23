@@ -9,8 +9,8 @@ layout:
 - - - -1
 name: Charcoal Kiln
 placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
+probabilityInGame: 6
+probabilityMapGen: 4
 prospectChance: 0
 tiles: []
 type: secondary
