@@ -4,13 +4,13 @@ classes: 16
 colour: 7
 id: 9
 label: GRVL
-longName: 'new cargo #9'
-name: 'New Cargo #9'
+longName: stone
+name: Stone
 penaltyLength: 255
 penaltyLowerBound: 0
 price: 4112
 sprite:
-  filename: cargoes/new-cargo-9.png
+  filename: cargoes/stone.png
   left: 0
   top: 0
 unitName: Items
