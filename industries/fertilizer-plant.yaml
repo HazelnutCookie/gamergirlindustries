@@ -1,0 +1,19 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- COMP
+- LIME
+cargoProduction:
+- FERT
+colour: 1
+fundCostMultiplier: 82
+id: 28
+layout:
+- - - -1
+name: Fertilizer Plant
+placement: anywhere
+probabilityInGame: 3
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary
