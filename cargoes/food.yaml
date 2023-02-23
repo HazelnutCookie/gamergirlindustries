@@ -1,0 +1,17 @@
+abbreviation: FO
+available: false
+classes: 672
+colour: 192
+id: 30
+label: FOOD
+longName: food
+name: Food
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/food.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16
