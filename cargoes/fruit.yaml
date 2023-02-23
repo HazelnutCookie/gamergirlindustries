@@ -6,7 +6,7 @@ id: 5
 label: FRUT
 longName: fruit
 name: Fruit
-penaltyLength: 255
+penaltyLength: 32
 penaltyLowerBound: 0
 price: 4112
 sprite:
