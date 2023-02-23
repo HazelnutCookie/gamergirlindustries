@@ -1,17 +1,17 @@
-abbreviation: NE
+abbreviation: FI
 available: false
-classes: 32
-colour: 1
+classes: 160
+colour: 158
 id: 6
-label: NEWC
-longName: 'new cargo #6'
-name: 'New Cargo #6'
+label: FISH
+longName: fish
+name: Fish
 penaltyLength: 255
 penaltyLowerBound: 0
 price: 4112
 sprite:
-  filename: cargoes/new-cargo-6.png
+  filename: cargoes/fish.png
   left: 0
   top: 0
-unitName: Items
+unitName: Tonnes
 weight: 16
