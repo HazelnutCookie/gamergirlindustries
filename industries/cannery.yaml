@@ -1,0 +1,20 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- ALUM
+- FISH
+- FRUT
+cargoProduction:
+- FOOD
+colour: 1
+fundCostMultiplier: 46
+id: 31
+layout:
+- - - -1
+name: Cannery
+placement: anywhere
+probabilityInGame: 6
+probabilityMapGen: 5
+prospectChance: 0
+tiles: []
+type: secondary
