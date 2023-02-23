@@ -6,9 +6,9 @@ id: 2
 label: LVST
 longName: livestock
 name: Livestock
-penaltyLength: 255
+penaltyLength: 28
 penaltyLowerBound: 0
-price: 5017
+price: 6168
 sprite:
   filename: cargoes/livestock.png
   left: 0
