@@ -6,9 +6,9 @@ id: 30
 label: FOOD
 longName: food
 name: Food
-penaltyLength: 255
+penaltyLength: 13
 penaltyLowerBound: 0
-price: 4112
+price: 7196
 sprite:
   filename: cargoes/food.png
   left: 0
