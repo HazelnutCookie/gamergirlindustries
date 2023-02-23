@@ -1,15 +1,21 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- COKE
+- CORE
+- IRON
+cargoProduction:
+- COPR
+- STEL
+- Slag
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 68
 id: 26
 layout:
 - - - -1
 name: Smelter
 placement: anywhere
-probabilityInGame: 5
+probabilityInGame: 4
 probabilityMapGen: 5
 prospectChance: 0
 tiles: []
