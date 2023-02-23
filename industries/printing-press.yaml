@@ -1,0 +1,18 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- PAPR
+cargoProduction:
+- NEWS
+colour: 1
+fundCostMultiplier: 100
+id: 32
+layout:
+- - - -1
+name: Printing  Press
+placement: near-town
+probabilityInGame: 4
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary
