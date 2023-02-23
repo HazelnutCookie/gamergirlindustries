@@ -99,9 +99,9 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- FRUT
 - ALUM
 - FISH
+- FRUT
 cargoProduction:
 - FOOD
 colour: 1
