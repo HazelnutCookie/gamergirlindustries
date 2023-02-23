@@ -1,7 +1,11 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- PASS
+cargoProduction:
+- FISH
+- PASS
+- PERL
 colour: 1
 fundCostMultiplier: 100
 id: 4
