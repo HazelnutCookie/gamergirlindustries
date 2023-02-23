@@ -8,7 +8,7 @@ longName: diamonds
 name: Diamonds
 penaltyLength: 255
 penaltyLowerBound: 0
-price: 4112
+price: 6374
 sprite:
   filename: cargoes/diamonds.png
   left: 0
