@@ -6,9 +6,9 @@ id: 7
 label: PERL
 longName: pearls
 name: Pearls
-penaltyLength: 255
-penaltyLowerBound: 0
-price: 4112
+penaltyLength: 223
+penaltyLowerBound: 32
+price: 4523
 sprite:
   filename: cargoes/pearls.png
   left: 0
