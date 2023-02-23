@@ -1,0 +1,19 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- CMNT
+- STEL
+- WDPR
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 70
+id: 38
+layout:
+- - - -1
+name: Construction Yard
+placement: near-town
+probabilityInGame: 5
+probabilityMapGen: 5
+prospectChance: 0
+tiles: []
+type: tertiary
