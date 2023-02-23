@@ -11,7 +11,7 @@ fundCostMultiplier: 120
 id: 36
 layout:
 - - - -1
-name: Vehicle Factory
+name: Vehicle Assembly Plant
 placement: anywhere
 probabilityInGame: 2
 probabilityMapGen: 3
