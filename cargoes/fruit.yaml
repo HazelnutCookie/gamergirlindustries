@@ -8,7 +8,7 @@ longName: fruit
 name: Fruit
 penaltyLength: 32
 penaltyLowerBound: 0
-price: 4112
+price: 5551
 sprite:
   filename: cargoes/fruit.png
   left: 0
