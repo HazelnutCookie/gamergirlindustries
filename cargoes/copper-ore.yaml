@@ -8,7 +8,7 @@ longName: copper ore
 name: Copper Ore
 penaltyLength: 255
 penaltyLowerBound: 0
-price: 3906
+price: 3495
 sprite:
   filename: cargoes/copper-ore.png
   left: 0
