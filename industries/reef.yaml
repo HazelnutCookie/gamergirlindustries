@@ -80,8 +80,8 @@ callbacks: |
 cargoAcceptance:
 - PASS
 cargoProduction:
-- FISH
 - PASS
+- FISH
 - PERL
 colour: 1
 fundCostMultiplier: 255
