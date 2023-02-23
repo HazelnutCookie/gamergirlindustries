@@ -1,0 +1,17 @@
+abbreviation: WP
+available: false
+classes: 528
+colour: 59
+id: 26
+label: WDPR
+longName: wood products
+name: Wood Products
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/wood-products.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16
