@@ -3,7 +3,7 @@ callbacks: ''
 cargoAcceptance: []
 cargoProduction: []
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 50
 id: 13
 layout:
 - - - -1
