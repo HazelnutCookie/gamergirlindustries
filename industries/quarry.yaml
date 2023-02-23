@@ -1,7 +1,11 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- VEHI
+cargoProduction:
+- LIME
+- SAND
+- GRVL
 colour: 1
 fundCostMultiplier: 40
 id: 6
