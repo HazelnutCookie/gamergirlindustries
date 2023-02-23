@@ -8,7 +8,7 @@ longName: coal
 name: Coal
 penaltyLength: 223
 penaltyLowerBound: 32
-price: 3166
+price: 3290
 sprite:
   filename: cargoes/coal.png
   left: 0
