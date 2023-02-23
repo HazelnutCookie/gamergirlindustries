@@ -6,9 +6,9 @@ id: 37
 label: NEWS
 longName: newspaper
 name: Newspaper
-penaltyLength: 255
-penaltyLowerBound: 0
-price: 4112
+penaltyLength: 0
+penaltyLowerBound: 3
+price: 7402
 sprite:
   filename: cargoes/newspaper.png
   left: 0
