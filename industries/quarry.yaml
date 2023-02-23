@@ -3,7 +3,7 @@ callbacks: ''
 cargoAcceptance: []
 cargoProduction: []
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 40
 id: 6
 layout:
 - - - -1
@@ -11,6 +11,6 @@ name: Quarry
 placement: anywhere
 probabilityInGame: 6
 probabilityMapGen: 5
-prospectChance: 75
+prospectChance: 90
 tiles: []
 type: primary
