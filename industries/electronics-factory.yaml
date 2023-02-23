@@ -1,0 +1,20 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- COPR
+- PERL
+- SILC
+cargoProduction:
+- ELEC
+colour: 1
+fundCostMultiplier: 111
+id: 33
+layout:
+- - - -1
+name: Electronics Factory
+placement: anywhere
+probabilityInGame: 4
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary
