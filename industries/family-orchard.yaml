@@ -9,8 +9,8 @@ layout:
 - - - -1
 name: Family Orchard
 placement: near-town
-probabilityInGame: 2
-probabilityMapGen: 2
+probabilityInGame: 3
+probabilityMapGen: 3
 prospectChance: 40
 tiles: []
 type: primary
