@@ -8,7 +8,7 @@ longName: copper wire
 name: Copper Wire
 penaltyLength: 255
 penaltyLowerBound: 0
-price: 4112
+price: 4934
 sprite:
   filename: cargoes/copper-wire.png
   left: 0
