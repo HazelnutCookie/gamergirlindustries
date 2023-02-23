@@ -1,9 +1,13 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- VEHI
+cargoProduction:
+- AORE
+- CORE
+- IRON
 colour: 1
-fundCostMultiplier: 66
+fundCostMultiplier: 73
 id: 7
 layout:
 - - - -1
