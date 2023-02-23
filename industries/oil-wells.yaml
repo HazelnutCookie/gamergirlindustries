@@ -1,0 +1,17 @@
+available: false
+callbacks: ''
+cargoAcceptance: []
+cargoProduction:
+- OIL_
+colour: 1
+fundCostMultiplier: 70
+id: 10
+layout:
+- - - -1
+name: Oil Wells
+placement: anywhere
+probabilityInGame: 3
+probabilityMapGen: 6
+prospectChance: 75
+tiles: []
+type: primary
