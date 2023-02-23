@@ -1,9 +1,10 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
+cargoAcceptance:
+- FERT
 cargoProduction: []
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 65
 id: 2
 layout:
 - - - -1
