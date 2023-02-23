@@ -1,9 +1,10 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
+cargoAcceptance:
+- GRVL
 cargoProduction: []
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 40
 id: 20
 layout:
 - - - -1
