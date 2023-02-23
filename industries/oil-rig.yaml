@@ -1,0 +1,19 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- PASS
+cargoProduction:
+- PASS
+- OIL_
+colour: 1
+fundCostMultiplier: 100
+id: 11
+layout:
+- - - -1
+name: Oil Rig
+placement: on-water
+probabilityInGame: 5
+probabilityMapGen: 0
+prospectChance: 75
+tiles: []
+type: primary
