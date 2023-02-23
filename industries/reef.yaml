@@ -7,14 +7,14 @@ cargoProduction:
 - PASS
 - PERL
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 255
 id: 4
 layout:
 - - - -1
 name: Reef
 placement: on-water
-probabilityInGame: 5
+probabilityInGame: 0
 probabilityMapGen: 3
-prospectChance: 75
+prospectChance: 0
 tiles: []
 type: primary
