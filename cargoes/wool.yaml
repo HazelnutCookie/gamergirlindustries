@@ -1,0 +1,17 @@
+abbreviation: WO
+available: false
+classes: 544
+colour: 11
+id: 1
+label: WOOL
+longName: wool
+name: Wool
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/wool.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 16
