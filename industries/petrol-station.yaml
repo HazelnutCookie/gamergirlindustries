@@ -1,0 +1,18 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- PETR
+- FOOD
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 15
+id: 29
+layout:
+- - - -1
+name: Petrol Station
+placement: in-town
+probabilityInGame: 6
+probabilityMapGen: 6
+prospectChance: 0
+tiles: []
+type: tertiary
