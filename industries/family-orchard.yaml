@@ -42,10 +42,11 @@ callbacks: |
 
   supply_requirement 8 =
 
-  accept_cargo_types ctt:ENSP [] 1 =
-  prod_cargo_types ctt:SASH [] 16 =
-  prod_cargo_types ctt:SALT [] 18 =
-
+  accept_cargo_types ctt:COMP [] 1 =
+  accept_cargo_types ctt:PASS [] 4 =
+  prod_cargo_types ctt:PASS [] 4 =
+  prod_cargo_types ctt:FRUT [] 18 =
+  prod_cargo_types ctt:WSTE [] 2 =
 
   /*
    The following is a replication of what FIRS is doing for a primary industry.
@@ -146,12 +147,11 @@ callbacks: |
   }
 cargoAcceptance:
 - COMP
-- MAIL
 - PASS
 cargoProduction:
 - FRUT
-- MAIL
 - PASS
+- WSTE
 colour: 1
 fundCostMultiplier: 20
 id: 3
