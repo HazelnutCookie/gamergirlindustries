@@ -1,16 +1,20 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- ALUM
+- CHEM
+- ELEC
+cargoProduction:
+- GOOD
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 130
 id: 37
 layout:
 - - - -1
-name: 'New industry #37'
+name: Modern Factory
 placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
-prospectChance: 75
+probabilityInGame: 4
+probabilityMapGen: 4
+prospectChance: 0
 tiles: []
-type: primary
+type: tertiary
