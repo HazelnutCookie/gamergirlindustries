@@ -13,8 +13,8 @@ layout:
 - - - -1
 name: Livestock Farm
 placement: anywhere
-probabilityInGame: 3
-probabilityMapGen: 3
+probabilityInGame: 5
+probabilityMapGen: 5
 prospectChance: 100
 tiles: []
 type: primary
