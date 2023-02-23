@@ -6,8 +6,8 @@ id: 34
 label: FERT
 longName: fertilizer
 name: Fertilizer
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 241
+penaltyLowerBound: 14
 price: 6867
 sprite:
   filename: cargoes/fertilizer.png
