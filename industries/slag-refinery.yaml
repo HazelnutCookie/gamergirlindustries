@@ -1,15 +1,18 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- SLAG
+cargoProduction:
+- CMNT
+- FERT
 colour: 1
-fundCostMultiplier: 69
+fundCostMultiplier: 97
 id: 34
 layout:
 - - - -1
 name: Slag Refinery
 placement: anywhere
-probabilityInGame: 6
+probabilityInGame: 2
 probabilityMapGen: 4
 prospectChance: 0
 tiles: []
