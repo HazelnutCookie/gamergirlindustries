@@ -1,14 +1,14 @@
 abbreviation: MT
 available: false
-classes: 16
+classes: 32
 colour: 19
 id: 32
 label: STEL
 longName: steel
 name: Steel
-penaltyLength: 255
-penaltyLowerBound: 0
-price: 4112
+penaltyLength: 223
+penaltyLowerBound: 32
+price: 5222
 sprite:
   filename: cargoes/steel.png
   left: 0
