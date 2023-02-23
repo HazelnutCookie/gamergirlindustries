@@ -11,8 +11,8 @@ layout:
 - - - -1
 name: Forest
 placement: anywhere
-probabilityInGame: 2
-probabilityMapGen: 4
+probabilityInGame: 4
+probabilityMapGen: 6
 prospectChance: 75
 tiles: []
 type: primary
