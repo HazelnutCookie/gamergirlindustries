@@ -1,0 +1,17 @@
+abbreviation: PG
+available: false
+classes: 1
+colour: 1
+id: 39
+label: PASS
+longName: passengers
+name: Passengers
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 5634
+sprite:
+  filename: cargoes/passengers.png
+  left: 0
+  top: 0
+unitName: Passengers
+weight: 1
