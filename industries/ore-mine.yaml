@@ -3,14 +3,14 @@ callbacks: ''
 cargoAcceptance: []
 cargoProduction: []
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 66
 id: 7
 layout:
 - - - -1
 name: Ore Mine
 placement: anywhere
-probabilityInGame: 5
+probabilityInGame: 3
 probabilityMapGen: 4
-prospectChance: 75
+prospectChance: 65
 tiles: []
 type: primary
