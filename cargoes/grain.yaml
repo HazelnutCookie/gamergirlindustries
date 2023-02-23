@@ -6,9 +6,9 @@ id: 3
 label: GRAI
 longName: grain
 name: Grain
-penaltyLength: 255
-penaltyLowerBound: 0
-price: 4112
+penaltyLength: 24
+penaltyLowerBound: 8
+price: 4688
 sprite:
   filename: cargoes/grain.png
   left: 0
