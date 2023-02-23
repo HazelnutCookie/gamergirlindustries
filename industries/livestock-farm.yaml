@@ -7,9 +7,9 @@ cargoAcceptance:
 - PASS
 cargoProduction:
 - LVST
-- WOOL
 - MAIL
 - PASS
+- WOOL
 colour: 1
 fundCostMultiplier: 65
 id: 1
