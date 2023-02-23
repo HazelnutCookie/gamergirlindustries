@@ -9,8 +9,8 @@ layout:
 - - - -1
 name: Sawmill
 placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
-prospectChance: 75
+probabilityInGame: 6
+probabilityMapGen: 4
+prospectChance: 0
 tiles: []
-type: primary
+type: secondary
