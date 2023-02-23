@@ -1,15 +1,17 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- VEHI
+cargoProduction:
+- COAL
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 73
 id: 5
 layout:
 - - - -1
 name: Coal Mine
 placement: anywhere
-probabilityInGame: 5
+probabilityInGame: 2
 probabilityMapGen: 3
 prospectChance: 75
 tiles: []
