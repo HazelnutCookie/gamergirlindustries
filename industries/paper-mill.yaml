@@ -20,10 +20,8 @@ callbacks: |
   }
 
   accept_cargo_types ctt:WATR [] 2 =
-  accept_cargo_types ctt:VBOD [] 2 =
-  prod_cargo_types ctt:VEHI [] 6 =
-  prod_cargo_types ctt:ENSP [] 1 =
-  prod_cargo_types ctt:FMSP [] 1 =
+  accept_cargo_types ctt:WDPR [] 2 =
+  prod_cargo_types ctt:PAPR [] 3 =
 
 
   /*
