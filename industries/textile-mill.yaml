@@ -19,8 +19,8 @@ callbacks: |
       total_produced_cargo_available integer
   }
 
-  accept_cargo_types ctt:FICR [] 1 =
-  accept_cargo_types ctt:WOOL [] 1 =
+  accept_cargo_types ctt:FICR [] 2 =
+  accept_cargo_types ctt:WOOL [] 2 =
   prod_cargo_types ctt:GOOD [] 1 =
 
 
