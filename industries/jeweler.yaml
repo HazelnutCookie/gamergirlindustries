@@ -1,16 +1,19 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- DIAM
+- PERL
+cargoProduction:
+- VALU
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 79
 id: 14
 layout:
 - - - -1
 name: Jeweler
 placement: near-town
-probabilityInGame: 5
-probabilityMapGen: 3
+probabilityInGame: 4
+probabilityMapGen: 5
 prospectChance: 0
 tiles: []
 type: secondary
