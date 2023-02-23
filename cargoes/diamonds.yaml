@@ -6,8 +6,8 @@ id: 15
 label: DIAM
 longName: diamonds
 name: Diamonds
-penaltyLength: 241
-penaltyLowerBound: 14
+penaltyLength: 223
+penaltyLowerBound: 32
 price: 6374
 sprite:
   filename: cargoes/diamonds.png
