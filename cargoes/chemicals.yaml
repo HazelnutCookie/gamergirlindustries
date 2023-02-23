@@ -6,9 +6,9 @@ id: 20
 label: CHEM
 longName: chemicals
 name: Chemicals
-penaltyLength: 255
+penaltyLength: 19
 penaltyLowerBound: 0
-price: 5058
+price: 5962
 sprite:
   filename: cargoes/chemicals.png
   left: 0
