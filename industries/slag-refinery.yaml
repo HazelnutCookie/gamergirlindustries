@@ -20,7 +20,7 @@ callbacks: |
   }
 
   accept_cargo_types ctt:SLAG [] 3 =
-  prod_cargo_types ctt:FERT [] 21 =
+  prod_cargo_types ctt:FERT [] 2 =
   prod_cargo_types ctt:CMNT [] 1 =
 
 
